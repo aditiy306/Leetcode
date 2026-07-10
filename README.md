@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditiy306/Leetcode/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditiy306/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/aditiy306/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/aditiy306/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/aditiy306/Leetcode/tree/master/0704-binary-search) |
@@ -29,5 +30,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditiy306/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/aditiy306/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
