@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/aditiy306/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditiy306/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/aditiy306/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aditiy306/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/aditiy306/Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/aditiy306/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/aditiy306/Leetcode/tree/master/0704-binary-search) |
@@ -23,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aditiy306/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aditiy306/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/aditiy306/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aditiy306/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aditiy306/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/aditiy306/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Matrix
 |  |
