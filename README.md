@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditiy306/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/aditiy306/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aditiy306/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/aditiy306/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aditiy306/Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/aditiy306/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/aditiy306/Leetcode/tree/master/0704-binary-search) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/aditiy306/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aditiy306/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/aditiy306/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aditiy306/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aditiy306/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/aditiy306/Leetcode/tree/master/0189-rotate-array) |
 | [2469-convert-the-temperature](https://github.com/aditiy306/Leetcode/tree/master/2469-convert-the-temperature) |
 ## Linked List
 |  |
