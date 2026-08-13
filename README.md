@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/aditiy306/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/aditiy306/Leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aditiy306/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/aditiy306/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1552-magnetic-force-between-two-balls](https://github.com/aditiy306/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1672-richest-customer-wealth](https://github.com/aditiy306/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aditiy306/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/aditiy306/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/aditiy306/Leetcode/tree/master/0189-rotate-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/aditiy306/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [2469-convert-the-temperature](https://github.com/aditiy306/Leetcode/tree/master/2469-convert-the-temperature) |
 ## Linked List
 |  |
