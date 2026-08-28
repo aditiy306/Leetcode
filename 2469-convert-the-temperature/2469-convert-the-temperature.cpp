@@ -1,10 +1,9 @@
 class Solution {
 public:
-    vector<double> convertTemperature(double celcius) {
-      vector<double> ans;
-      ans.push_back( celcius + 273.15);
-      ans.push_back(celcius * 1.80 + 32.00 );
+    vector<double> convertTemperature(double celsius) {
+        double kelvin = celsius + 273.15;
+        double fahrenheit = celsius * 1.80 + 32;
 
-      return ans;  
+        return {kelvin, fahrenheit};
     }
 };
