@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aditiy306/Leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aditiy306/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/aditiy306/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditiy306/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/aditiy306/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aditiy306/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/aditiy306/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aditiy306/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditiy306/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/aditiy306/Leetcode/tree/master/0567-permutation-in-string) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditiy306/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/aditiy306/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aditiy306/Leetcode/tree/master/0088-merge-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditiy306/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/aditiy306/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Matrix
 |  |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditiy306/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/aditiy306/Leetcode/tree/master/0567-permutation-in-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditiy306/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
