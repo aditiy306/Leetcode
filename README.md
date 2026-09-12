@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aditiy306/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/aditiy306/Leetcode/tree/master/0189-rotate-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/aditiy306/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/aditiy306/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/aditiy306/Leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/aditiy306/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aditiy306/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditiy306/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/aditiy306/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
