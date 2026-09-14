@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aditiy306/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditiy306/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/aditiy306/Leetcode/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/aditiy306/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditiy306/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/aditiy306/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/aditiy306/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/aditiy306/Leetcode/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/aditiy306/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aditiy306/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1816-truncate-sentence](https://github.com/aditiy306/Leetcode/tree/master/1816-truncate-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aditiy306/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
