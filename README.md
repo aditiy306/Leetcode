@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aditiy306/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aditiy306/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aditiy306/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/aditiy306/Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditiy306/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/aditiy306/Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/aditiy306/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aditiy306/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/aditiy306/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/aditiy306/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/aditiy306/Leetcode/tree/master/0204-count-primes) |
 | [0989-add-to-array-form-of-integer](https://github.com/aditiy306/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/aditiy306/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/aditiy306/Leetcode/tree/master/2235-add-two-integers) |
@@ -142,4 +144,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditiy306/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aditiy306/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aditiy306/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aditiy306/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aditiy306/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aditiy306/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
